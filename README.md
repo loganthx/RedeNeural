@@ -15,5 +15,5 @@ Banco de Dados usado tem TEMP.py disponível em: https://file.io/ZW9Qm760RGQj
 Alcançamos acurácia significativa no teste do problema físico. 
 A rede, composta somente por camadas lineares, é capaz de prever com precisão a temperatura de materiais nas amostras de teste!
 
-![Legenda: [Verdadeiro][Previsao]](TemperaturePreds.jpeg)
+![Legenda: VerdadeiroxPrevisao](TemperaturePreds.jpeg)
 
