@@ -19,3 +19,10 @@ A rede, composta somente por camadas lineares, é capaz de prever com precisão 
 
 Legenda: [Verdadeiro][Previsão]
 
+# Ideias Futuras
+
+O mecanismo de propagação recursiva em redes neurais possui falhas. É muito fácil construir um treino instável, onde as correções da propagação são grandes demais, causando gradientes que explodem. 
+A ideia de aplicar um algoritmo genético na rede neural é muito interessante, porque:
+-> A propagação recursiva é substituida por uma seleção natural entre pesos, que, inicializados da maneira correto, não explodem.
+-> Algoritmos genéticos podem resolver problemas complexos, pois não dependem do tamanho do banco de dados de forma tão intensa.
+
