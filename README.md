@@ -16,10 +16,10 @@ Alcançamos acurácia significativa no teste do problema físico.
 A rede, composta somente por camadas lineares, é capaz de prever com precisão a temperatura de materiais nas amostras de teste!
 
 ![](TemperaturePreds.jpeg)
+Legenda: [Verdadeiro][Previsão]
 
 ![](ScatterPreds.png)
-
-Legenda: [Verdadeiro][Previsão]
+Legenda: Desvio das Previsões com relações aos Verdadeiros
 
 # Ideias Futuras
 
