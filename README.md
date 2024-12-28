@@ -17,6 +17,8 @@ A rede, composta somente por camadas lineares, é capaz de prever com precisão 
 
 ![](TemperaturePreds.jpeg)
 
+![](ScatterPreds.png)
+
 Legenda: [Verdadeiro][Previsão]
 
 # Ideias Futuras
