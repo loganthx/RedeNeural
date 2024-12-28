@@ -27,7 +27,7 @@ Legenda: Desvio das Previsões com relações aos Verdadeiros
 
 O mecanismo de propagação recursiva em redes neurais possui falhas. É muito fácil construir um treino instável, onde as correções da propagação são grandes demais, causando gradientes que explodem. 
 A ideia de aplicar um algoritmo genético na rede neural é muito interessante, porque:
-1. A propagação recursiva é substituida por uma seleção natural entre pesos, que, inicializados da maneira correto, não explodem.
+1. A propagação recursiva é substituida por uma seleção natural entre pesos, que, inicializados da maneira correta, não explodem.
 2. Algoritmos genéticos podem resolver problemas complexos, pois não dependem do tamanho do banco de dados de forma tão intensa.
 
 
